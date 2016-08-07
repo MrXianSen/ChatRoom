@@ -1,0 +1,5 @@
+G:\project\C#\ChatRoom\ChatRoom.Model\bin\Debug\ChatRoom.Model.dll
+G:\project\C#\ChatRoom\ChatRoom.Model\bin\Debug\ChatRoom.Model.pdb
+G:\project\C#\ChatRoom\ChatRoom.Model\obj\Debug\ChatRoom.Model.csprojResolveAssemblyReference.cache
+G:\project\C#\ChatRoom\ChatRoom.Model\obj\Debug\ChatRoom.Model.dll
+G:\project\C#\ChatRoom\ChatRoom.Model\obj\Debug\ChatRoom.Model.pdb

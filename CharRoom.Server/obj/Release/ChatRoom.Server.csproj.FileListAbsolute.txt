@@ -1,0 +1,10 @@
+G:\project\C#\ChatRoom\CharRoom.Server\bin\Release\CharRoom.Server.exe.config
+G:\project\C#\ChatRoom\CharRoom.Server\bin\Release\CharRoom.Server.exe
+G:\project\C#\ChatRoom\CharRoom.Server\bin\Release\CharRoom.Server.pdb
+G:\project\C#\ChatRoom\CharRoom.Server\bin\Release\Newtonsoft.Json.dll
+G:\project\C#\ChatRoom\CharRoom.Server\obj\Release\CharRoom.Server.Properties.Resources.resources
+G:\project\C#\ChatRoom\CharRoom.Server\obj\Release\ChatRoom.Server.ServerForm.resources
+G:\project\C#\ChatRoom\CharRoom.Server\obj\Release\ChatRoom.Server.csproj.GenerateResource.Cache
+G:\project\C#\ChatRoom\CharRoom.Server\obj\Release\CharRoom.Server.exe
+G:\project\C#\ChatRoom\CharRoom.Server\obj\Release\CharRoom.Server.pdb
+G:\project\C#\ChatRoom\CharRoom.Server\obj\Release\ChatRoom.Server.csprojResolveAssemblyReference.cache

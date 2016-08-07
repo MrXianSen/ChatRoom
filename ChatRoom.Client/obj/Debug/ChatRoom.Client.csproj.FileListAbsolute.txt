@@ -1,0 +1,9 @@
+G:\project\C#\ChatRoom\ChatRoom.Client\obj\Debug\ChatRoom.Client.ClientForm.resources
+G:\project\C#\ChatRoom\ChatRoom.Client\obj\Debug\ChatRoom.Client.Properties.Resources.resources
+G:\project\C#\ChatRoom\ChatRoom.Client\obj\Debug\ChatRoom.Client.csproj.GenerateResource.Cache
+G:\project\C#\ChatRoom\ChatRoom.Client\bin\Debug\ChatRoom.Client.exe.config
+G:\project\C#\ChatRoom\ChatRoom.Client\bin\Debug\ChatRoom.Client.exe
+G:\project\C#\ChatRoom\ChatRoom.Client\bin\Debug\ChatRoom.Client.pdb
+G:\project\C#\ChatRoom\ChatRoom.Client\obj\Debug\ChatRoom.Client.exe
+G:\project\C#\ChatRoom\ChatRoom.Client\obj\Debug\ChatRoom.Client.pdb
+G:\project\C#\ChatRoom\ChatRoom.Client\bin\Debug\Newtonsoft.Json.dll
